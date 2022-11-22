@@ -1,0 +1,22 @@
+{
+  "name": "kims",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarrisAlex/KIMS.git"
+  },
+  "author": "HarrisAlex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarrisAlex/KIMS/issues"
+  },
+  "homepage": "https://github.com/HarrisAlex/KIMS#readme",
+  "dependencies": {
+    "electron": "^21.3.0"
+  }
+}
